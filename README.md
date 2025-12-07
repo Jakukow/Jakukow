@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Rust** and **Java**, and deepening my knowledge of **TypeScript, Node.js & React**  
 - 🔬 I’m currently building **algorithms for blockchain networks**  
 - 🎓 I recently completed my **master’s thesis on blockchain databases**  
-- 📫 Reach me at: jakub.kowolik@gmail.com  
+- 📫 Reach me at: jakubkowolik00@gmail.com  
 
 ---
 
