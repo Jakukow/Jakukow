@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Jakub
 
-<!--
-**Jakukow/Jakukow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Rust** and **Java**, and deepening my knowledge of **TypeScript, Node.js & React**  
+- 🔬 I’m currently building **algorithms for blockchain networks**  
+- 🎓 I recently completed my **master’s thesis on blockchain databases**  
+- 📫 Reach me at: jakub.kowolik@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Connect with me:
+[<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>](https://www.linkedin.com/in/jakub-kowolik-17679122b/)
+
+---
+
+## Languages and Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js" width="48"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="48"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="48"/>
+  <img src="https://skillicons.dev/icons?i=rust" width="48"/>
+  <img src="https://skillicons.dev/icons?i=java" width="48"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48"/>
+  <img src="https://skillicons.dev/icons?i=unity" width="48"/>
+</p>
+
+---
